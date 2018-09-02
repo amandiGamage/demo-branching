@@ -40,6 +40,8 @@ public class DemoBranchingApplication {
 					" issarahata yanawa yam kisi awasthawaka code eka oya plug karama marge karala development ekata lassanata" +
 					" eka pennanawa meke ";
 
-			String s4="dan man karanna hadanne pull request eekak dala me feature eka QA kenekta code review ekakata dena eka";
+			String s4="dan man karanna hadanne pull request eekak dala me feature eka QA kenekta code review ekakata dena eka" +
+                    "ne push kiyanne oya local git eke commit karapu cmmit tika adala branch ekata yawanawa ekai local eken github eka" +
+                    "update karana ekai push kiyanne. hari oya den aluthin type kala tika commit kalata push kale ne ned ehema wenna athi sry sry hode";
 	}
 }
