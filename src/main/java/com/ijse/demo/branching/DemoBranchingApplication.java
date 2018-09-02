@@ -30,5 +30,14 @@ public class DemoBranchingApplication {
 				"\n" +
 				"\n" +
 				"dan oya inne oyage aluth feature branch eke dan code eka push karanna yanawa kiyala hithanna";
+
+
+
+
+			String s3="me penawa neda push kare passe unata hari piliwalata thiyenawa master eken develop eka kedila dev eken feature " +
+					"eka kedila ekata api code kara blog kiyala cmmit ekak code eke commit eka thamai kola pata dot eka code eka " +
+					"issarahata yanna yanna me line eka" +
+					" issarahata yanawa yam kisi awasthawaka code eka oya plug karama marge karala development ekata lassanata" +
+					" eka pennanawa meke ";
 	}
 }
