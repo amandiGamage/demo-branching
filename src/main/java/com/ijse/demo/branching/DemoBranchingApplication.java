@@ -39,5 +39,7 @@ public class DemoBranchingApplication {
 					"issarahata yanna yanna me line eka" +
 					" issarahata yanawa yam kisi awasthawaka code eka oya plug karama marge karala development ekata lassanata" +
 					" eka pennanawa meke ";
+
+			String s4="dan man karanna hadanne pull request eekak dala me feature eka QA kenekta code review ekakata dena eka";
 	}
 }
